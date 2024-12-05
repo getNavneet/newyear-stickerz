@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "./hero.css"; // Custom styles
+import "./Hero.css"; // Custom styles
 import GreetingCard from "../cardHolder/GreetingCard";
 import navneet1t from "../../assets/navneet1template.png"
 import navneet2t from "../../assets/navneet2template.png"
