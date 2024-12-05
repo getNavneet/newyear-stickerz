@@ -36,9 +36,9 @@ function Footer() {
   {/* Contact Details */}
   <div className="w-full lg:w-1/2 text-center lg:text-left">
     <h3 className="text-2xl font-bold text-gray-800 mb-6">Contact Details</h3>
-    <p className="mb-4 text-lg"><strong>Email:</strong> <a href="mailto:info@samajwadiparty.in" className="text-yellow400 hover:text-yellow-800 transition duration-300">info@samajwadiparty.in</a></p>
-    <p className="mb-4 text-lg"><strong>Phone:</strong> <a href="tel:+911234567890" className="text-yellow-400 hover:text-yellow-800 transition duration-300">+91 731 115 5740</a></p>
-    <p className="text-lg"><strong>Location:</strong> 19, Vikramaditya Marg, Lucknow</p>
+    <p className="mb-4 text-lg"><strong>Email:</strong> <a href="mailto:navneetkumar.learn@gmail.com" className="text-yellow400 hover:text-yellow-800 transition duration-300">navneetkumar.learn@gmail.com</a></p>
+    <p className="mb-4 text-lg"><strong>Phone:</strong> <a href="tel:+917307159865" className="text-yellow-400 hover:text-yellow-800 transition duration-300">+91 731 115 5740</a></p>
+    <p className="text-lg"><strong>Location:</strong>Lucknow, Uttar Pradesh</p>
   </div>
 </div>
 
